@@ -63,5 +63,6 @@ I'm a Software Engineer with over 2 years of experience in web and mobile applic
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yingqi-luo/)
+[![Malt](https://img.shields.io/badge/-Malt-FC5757?style=flat-square&logo=malt&logoColor=white)](https://www.malt.fr/profile/yingqiluo)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yingqi.luo.fr@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://yingqi-luo.fr)
